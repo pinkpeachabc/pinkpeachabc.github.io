@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>粉色桃子的博客</title>
   
-  <subtitle>粉色桃子的博客</subtitle>
+  <subtitle>好高骛远，鹰击长空</subtitle>
   <link href="https://pinkpeachabc.cn/atom.xml" rel="self"/>
   
   <link href="https://pinkpeachabc.cn/"/>
-  <updated>2020-10-18T05:17:29.148Z</updated>
+  <updated>2020-10-18T05:49:37.103Z</updated>
   <id>https://pinkpeachabc.cn/</id>
   
   <author>
@@ -18,19 +18,15 @@
   
   <entry>
     <title>Daily life</title>
-    <link href="https://pinkpeachabc.cn/2020/09/09/%E5%B0%8F%E8%AE%B0/"/>
-    <id>https://pinkpeachabc.cn/2020/09/09/%E5%B0%8F%E8%AE%B0/</id>
+    <link href="https://pinkpeachabc.cn/%E5%B0%8F%E8%AE%B0.html"/>
+    <id>https://pinkpeachabc.cn/%E5%B0%8F%E8%AE%B0.html</id>
     <published>2020-09-09T15:26:33.000Z</published>
-    <updated>2020-10-18T05:17:29.148Z</updated>
+    <updated>2020-10-18T05:49:37.103Z</updated>
     
     <content type="html"><![CDATA[<h2 id="更新">更新<a title="#更新" href="#更新"></a></h2><p>由于 hexo 已经升级到了 5.x.x 版本，inside主题会出现一些未知的 bug。本次已经升级到 hexo 5.1.1，主题更新到了最新版本：2.7.0-beta.3。</p><p>另外在之前的设置的 valine 的邮箱回复，会出现未能唤醒的现象 <strong>“因流控原因，通过定时任务唤醒体验版实例失败，建议升级至标准版云引擎实例避免休眠”</strong>。本次通用 <strong>Github Action</strong> 修复了这个唤醒失败的错误。</p><h2 id="说明">说明<a title="#说明" href="#说明"></a></h2><p>由于准备考试，今后的一个月不会更博，目前的 blog 整体度已经很高了。不会再折腾了<s>以后说不定</s>。总之要失踪一阵子了。</p><hr><p>今后争取写优质的原创文章、听几首好听的音乐、考一个理想的分数——2020年9月9日</p>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;h2 id=&quot;更新&quot;&gt;更新&lt;a title=&quot;#更新&quot; href=&quot;#更新&quot;&gt;&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;由于 hexo 已经升级到了 5.x.x 版本，inside主题会出现一些未知的 bug。本次已经升级到 hexo 5.1.1，主题更新到了最新版本：2.7.0-beta.3</summary>
-      
+    <summary type="html">日常生活</summary>
     
     
     
@@ -41,8 +37,8 @@
   
   <entry>
     <title>Valine评论的邮箱提醒</title>
-    <link href="https://pinkpeachabc.cn/2020/08/06/Valine%E8%AF%84%E8%AE%BA%E7%9A%84%E9%82%AE%E7%AE%B1%E6%8F%90%E9%86%92/"/>
-    <id>https://pinkpeachabc.cn/2020/08/06/Valine%E8%AF%84%E8%AE%BA%E7%9A%84%E9%82%AE%E7%AE%B1%E6%8F%90%E9%86%92/</id>
+    <link href="https://pinkpeachabc.cn/Valine%E8%AF%84%E8%AE%BA%E7%9A%84%E9%82%AE%E7%AE%B1%E6%8F%90%E9%86%92.html"/>
+    <id>https://pinkpeachabc.cn/Valine%E8%AF%84%E8%AE%BA%E7%9A%84%E9%82%AE%E7%AE%B1%E6%8F%90%E9%86%92.html</id>
     <published>2020-08-06T05:21:28.000Z</published>
     <updated>2020-08-26T04:21:51.871Z</updated>
     
@@ -68,8 +64,8 @@
   
   <entry>
     <title>入手Y7000 &amp; 黑苹果体验</title>
-    <link href="https://pinkpeachabc.cn/2020/07/24/%E9%BB%91%E8%8B%B9%E6%9E%9C%E4%BD%93%E9%AA%8C/"/>
-    <id>https://pinkpeachabc.cn/2020/07/24/%E9%BB%91%E8%8B%B9%E6%9E%9C%E4%BD%93%E9%AA%8C/</id>
+    <link href="https://pinkpeachabc.cn/%E9%BB%91%E8%8B%B9%E6%9E%9C%E4%BD%93%E9%AA%8C.html"/>
+    <id>https://pinkpeachabc.cn/%E9%BB%91%E8%8B%B9%E6%9E%9C%E4%BD%93%E9%AA%8C.html</id>
     <published>2020-07-24T04:02:18.000Z</published>
     <updated>2020-08-26T04:20:59.720Z</updated>
     
@@ -89,8 +85,8 @@
   
   <entry>
     <title>Maven依赖下载失败</title>
-    <link href="https://pinkpeachabc.cn/2020/05/19/maven%E4%BE%9D%E8%B5%96/"/>
-    <id>https://pinkpeachabc.cn/2020/05/19/maven%E4%BE%9D%E8%B5%96/</id>
+    <link href="https://pinkpeachabc.cn/maven%E4%BE%9D%E8%B5%96.html"/>
+    <id>https://pinkpeachabc.cn/maven%E4%BE%9D%E8%B5%96.html</id>
     <published>2020-05-19T13:26:45.000Z</published>
     <updated>2020-08-27T02:54:44.699Z</updated>
     
@@ -115,8 +111,8 @@
   
   <entry>
     <title>Spring框架详解</title>
-    <link href="https://pinkpeachabc.cn/2020/04/21/IOC%20%E5%92%8C%20DI%20%E7%9A%84%E6%A6%82%E8%BF%B0/"/>
-    <id>https://pinkpeachabc.cn/2020/04/21/IOC%20%E5%92%8C%20DI%20%E7%9A%84%E6%A6%82%E8%BF%B0/</id>
+    <link href="https://pinkpeachabc.cn/IOC%20%E5%92%8C%20DI%20%E7%9A%84%E6%A6%82%E8%BF%B0.html"/>
+    <id>https://pinkpeachabc.cn/IOC%20%E5%92%8C%20DI%20%E7%9A%84%E6%A6%82%E8%BF%B0.html</id>
     <published>2020-04-21T03:02:12.000Z</published>
     <updated>2020-08-26T04:22:08.084Z</updated>
     
@@ -145,8 +141,8 @@
   
   <entry>
     <title>EL与JSTL</title>
-    <link href="https://pinkpeachabc.cn/2020/03/08/EL%E4%B8%8EJSTL/"/>
-    <id>https://pinkpeachabc.cn/2020/03/08/EL%E4%B8%8EJSTL/</id>
+    <link href="https://pinkpeachabc.cn/EL%E4%B8%8EJSTL.html"/>
+    <id>https://pinkpeachabc.cn/EL%E4%B8%8EJSTL.html</id>
     <published>2020-03-08T13:18:24.000Z</published>
     <updated>2020-07-18T13:08:53.737Z</updated>
     
@@ -172,8 +168,8 @@
   
   <entry>
     <title>JSP的基本语法</title>
-    <link href="https://pinkpeachabc.cn/2020/03/04/JSP%E7%9A%84%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/"/>
-    <id>https://pinkpeachabc.cn/2020/03/04/JSP%E7%9A%84%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</id>
+    <link href="https://pinkpeachabc.cn/JSP%E7%9A%84%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95.html"/>
+    <id>https://pinkpeachabc.cn/JSP%E7%9A%84%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95.html</id>
     <published>2020-03-04T06:42:17.000Z</published>
     <updated>2020-08-16T13:30:21.449Z</updated>
     
@@ -200,8 +196,8 @@
   
   <entry>
     <title>cookie与Session</title>
-    <link href="https://pinkpeachabc.cn/2020/02/27/JavaWeb-%E4%BC%9A%E8%AF%9D/"/>
-    <id>https://pinkpeachabc.cn/2020/02/27/JavaWeb-%E4%BC%9A%E8%AF%9D/</id>
+    <link href="https://pinkpeachabc.cn/JavaWeb-%E4%BC%9A%E8%AF%9D.html"/>
+    <id>https://pinkpeachabc.cn/JavaWeb-%E4%BC%9A%E8%AF%9D.html</id>
     <published>2020-02-27T12:33:57.000Z</published>
     <updated>2020-08-16T13:30:25.537Z</updated>
     
@@ -232,8 +228,8 @@
   
   <entry>
     <title>JavaWeb请求和响应</title>
-    <link href="https://pinkpeachabc.cn/2020/02/25/%E5%93%8D%E5%BA%94%E5%A4%B4/"/>
-    <id>https://pinkpeachabc.cn/2020/02/25/%E5%93%8D%E5%BA%94%E5%A4%B4/</id>
+    <link href="https://pinkpeachabc.cn/%E5%93%8D%E5%BA%94%E5%A4%B4.html"/>
+    <id>https://pinkpeachabc.cn/%E5%93%8D%E5%BA%94%E5%A4%B4.html</id>
     <published>2020-02-25T00:59:04.000Z</published>
     <updated>2020-07-18T13:09:00.225Z</updated>
     
@@ -258,8 +254,8 @@
   
   <entry>
     <title>Blog定位方向和主题选择</title>
-    <link href="https://pinkpeachabc.cn/2020/02/08/theme-change/"/>
-    <id>https://pinkpeachabc.cn/2020/02/08/theme-change/</id>
+    <link href="https://pinkpeachabc.cn/theme-change.html"/>
+    <id>https://pinkpeachabc.cn/theme-change.html</id>
     <published>2020-02-08T07:40:13.000Z</published>
     <updated>2020-08-26T04:23:51.727Z</updated>
     
@@ -288,8 +284,8 @@
   
   <entry>
     <title>Mac终端配置代理</title>
-    <link href="https://pinkpeachabc.cn/2020/01/31/Mac-terminal/"/>
-    <id>https://pinkpeachabc.cn/2020/01/31/Mac-terminal/</id>
+    <link href="https://pinkpeachabc.cn/Mac-terminal.html"/>
+    <id>https://pinkpeachabc.cn/Mac-terminal.html</id>
     <published>2020-01-31T11:45:51.000Z</published>
     <updated>2020-06-06T13:01:13.585Z</updated>
     
@@ -309,8 +305,8 @@
   
   <entry>
     <title>你活成你想要的样子了吗？</title>
-    <link href="https://pinkpeachabc.cn/2020/01/17/2020.01.17/"/>
-    <id>https://pinkpeachabc.cn/2020/01/17/2020.01.17/</id>
+    <link href="https://pinkpeachabc.cn/2020.01.17.html"/>
+    <id>https://pinkpeachabc.cn/2020.01.17.html</id>
     <published>2020-01-17T02:56:06.000Z</published>
     <updated>2020-05-23T13:40:32.898Z</updated>
     
@@ -332,8 +328,8 @@
   
   <entry>
     <title>在Mac上为图片添加阴影，让截图更好看</title>
-    <link href="https://pinkpeachabc.cn/2020/01/15/%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/"/>
-    <id>https://pinkpeachabc.cn/2020/01/15/%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7/</id>
+    <link href="https://pinkpeachabc.cn/%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7.html"/>
+    <id>https://pinkpeachabc.cn/%E6%88%AA%E5%9B%BE%E5%B7%A5%E5%85%B7.html</id>
     <published>2020-01-15T09:19:59.000Z</published>
     <updated>2020-05-23T13:45:04.014Z</updated>
     
@@ -359,8 +355,8 @@
   
   <entry>
     <title>域名解析配置教程</title>
-    <link href="https://pinkpeachabc.cn/2020/01/09/yu-ming-jie-xi/"/>
-    <id>https://pinkpeachabc.cn/2020/01/09/yu-ming-jie-xi/</id>
+    <link href="https://pinkpeachabc.cn/yu-ming-jie-xi.html"/>
+    <id>https://pinkpeachabc.cn/yu-ming-jie-xi.html</id>
     <published>2020-01-09T05:58:38.000Z</published>
     <updated>2020-05-20T01:13:27.147Z</updated>
     
@@ -387,8 +383,8 @@
   
   <entry>
     <title>Blog搭建流程</title>
-    <link href="https://pinkpeachabc.cn/2020/01/01/Blog%E6%90%AD%E5%BB%BA%E6%B5%81%E7%A8%8B/"/>
-    <id>https://pinkpeachabc.cn/2020/01/01/Blog%E6%90%AD%E5%BB%BA%E6%B5%81%E7%A8%8B/</id>
+    <link href="https://pinkpeachabc.cn/Blog%E6%90%AD%E5%BB%BA%E6%B5%81%E7%A8%8B.html"/>
+    <id>https://pinkpeachabc.cn/Blog%E6%90%AD%E5%BB%BA%E6%B5%81%E7%A8%8B.html</id>
     <published>2020-01-01T15:11:10.000Z</published>
     <updated>2020-05-23T13:44:22.364Z</updated>
     
@@ -411,8 +407,8 @@
   
   <entry>
     <title>Android数据储存</title>
-    <link href="https://pinkpeachabc.cn/2019/12/31/Android%E6%95%B0%E6%8D%AE%E5%82%A8%E5%AD%98/"/>
-    <id>https://pinkpeachabc.cn/2019/12/31/Android%E6%95%B0%E6%8D%AE%E5%82%A8%E5%AD%98/</id>
+    <link href="https://pinkpeachabc.cn/Android%E6%95%B0%E6%8D%AE%E5%82%A8%E5%AD%98.html"/>
+    <id>https://pinkpeachabc.cn/Android%E6%95%B0%E6%8D%AE%E5%82%A8%E5%AD%98.html</id>
     <published>2019-12-31T14:40:26.000Z</published>
     <updated>2020-01-31T12:03:25.000Z</updated>
     
@@ -432,8 +428,8 @@
   
   <entry>
     <title>hexo速度优化，gulp压缩静态资源</title>
-    <link href="https://pinkpeachabc.cn/2019/12/31/hexo%E9%80%9F%E5%BA%A6%E4%BC%98%E5%8C%96%EF%BC%8Cgulp%E5%8E%8B%E7%BC%A9%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90/"/>
-    <id>https://pinkpeachabc.cn/2019/12/31/hexo%E9%80%9F%E5%BA%A6%E4%BC%98%E5%8C%96%EF%BC%8Cgulp%E5%8E%8B%E7%BC%A9%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90/</id>
+    <link href="https://pinkpeachabc.cn/hexo%E9%80%9F%E5%BA%A6%E4%BC%98%E5%8C%96%EF%BC%8Cgulp%E5%8E%8B%E7%BC%A9%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90.html"/>
+    <id>https://pinkpeachabc.cn/hexo%E9%80%9F%E5%BA%A6%E4%BC%98%E5%8C%96%EF%BC%8Cgulp%E5%8E%8B%E7%BC%A9%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90.html</id>
     <published>2019-12-31T14:21:12.000Z</published>
     <updated>2020-01-31T12:04:02.000Z</updated>
     
@@ -455,8 +451,8 @@
   
   <entry>
     <title>macOS 外接鼠标也丝滑柔顺</title>
-    <link href="https://pinkpeachabc.cn/2019/12/31/macOS-%E5%A6%82%E4%BD%95%E5%83%8F-Windows-%E4%B8%80%E6%A0%B7%E4%BD%BF%E7%94%A8%E9%BC%A0%E6%A0%87/"/>
-    <id>https://pinkpeachabc.cn/2019/12/31/macOS-%E5%A6%82%E4%BD%95%E5%83%8F-Windows-%E4%B8%80%E6%A0%B7%E4%BD%BF%E7%94%A8%E9%BC%A0%E6%A0%87/</id>
+    <link href="https://pinkpeachabc.cn/macOS-%E5%A6%82%E4%BD%95%E5%83%8F-Windows-%E4%B8%80%E6%A0%B7%E4%BD%BF%E7%94%A8%E9%BC%A0%E6%A0%87.html"/>
+    <id>https://pinkpeachabc.cn/macOS-%E5%A6%82%E4%BD%95%E5%83%8F-Windows-%E4%B8%80%E6%A0%B7%E4%BD%BF%E7%94%A8%E9%BC%A0%E6%A0%87.html</id>
     <published>2019-12-31T11:58:41.000Z</published>
     <updated>2020-05-23T13:49:19.207Z</updated>
     
