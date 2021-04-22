@@ -6,7 +6,7 @@
   <link href="https://pinkpeachabc.cn/atom.xml" rel="self"/>
   
   <link href="https://pinkpeachabc.cn/"/>
-  <updated>2021-04-20T11:15:03.845Z</updated>
+  <updated>2021-04-22T03:43:12.335Z</updated>
   <id>https://pinkpeachabc.cn/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Daily Life 2</title>
+    <link href="https://pinkpeachabc.cn/%E6%97%A5%E5%B8%B8%E5%B0%8F%E8%AE%B0.html"/>
+    <id>https://pinkpeachabc.cn/%E6%97%A5%E5%B8%B8%E5%B0%8F%E8%AE%B0.html</id>
+    <published>2021-04-20T15:21:02.000Z</published>
+    <updated>2021-04-22T03:43:12.335Z</updated>
+    
+    <content type="html"><![CDATA[<p>失踪人口回来啦🤗，前一篇还是元旦转眼已经将近五个月没写博客了，可以说是终极鸽子🕊怪了。<a id="more"></a></p><h2 id="消失">消失<a title="#消失" href="#消失"></a></h2><p>年味刚过我的专升本考试就提上了日程，这几个月的时间都在备考当中。感觉每一天都在还高中的债，这三年光阴的对我来说可以说段瞬即逝，从大一的排斥到最后的释然。一个成长的过程，路程总是艰辛。直到今年三月底我终于完成我三年的盼望的一天，可以松口气睡个觉打个游戏了。考前一天还和同学在旅馆打趣说必定上岸换个好地方约占上网，还记的刚开始有许多同学在一起坚持，最后我的小圈子只剩一个人陪在身边了，有些人不知不觉中<strong>消失</strong>了。</p><h2 id="除草">除草<a title="#除草" href="#除草"></a></h2><p>难得休憩的日子，也没有去找个兼职<s>主要是懒</s>。这两天一直受到服务器和域名到期的通知，一拍脑门已经把博客放的长满绿毛了。父亲在楼下地上种的瓜果蔬菜需要翻地，养分才能均匀更何况博客了。除草机也需要开几下了。</p><ul><li>全站替换 Https，续费域名。</li><li>主题更新到了最新版本：<a href="https://github.com/ikeq/hexo-theme-inside/releases/tag/2.7.0-beta.13" target="_blank">2.7.0-beta.13</a>。</li><li>由于阿里云服务器 5 月分到期，不在继续续费改用 Vercel 作为托管。</li><li>一直在用笔记本 15.6 寸，博客未能很好适配多分辨率的显示效果优化了显示范围。</li></ul><h2 id="休闲">休闲<a title="#休闲" href="#休闲"></a></h2><p>这两天迷上了又重新入坑的炉石传说<s>战令太香了</s>，但是时间不如许高强度淦小时数。灵机一动使用脚本来刷，找了好久发现就只有一款叫 Hearthbuddy 的脚本软件。脚本用 C# 来写战斗策略配合 AI 计算实现挂机，一直以来对脚本的印象都是呆笨的，从现在起我正式向 AI 道歉。仅仅历时两个晚上，一路从青铜冲到低保<s>恨不得没早用</s>。<img src="https://cdn.jsdelivr.net/gh/pinkpeachabc/images/Blog-imgs/image-20210422111257984.png" alt="image-20210422111257984"></p><h2 id="学习">学习<a title="#学习" href="#学习"></a></h2><p>躺的久了难免成为废人，关于技术栈这一方面已经搁置小半年没有学习了。搁的越久忘的越多，之后的日子从新开始快速学习。会更新一些学习笔记和日常生活。<img src="https://cdn.jsdelivr.net/gh/pinkpeachabc/images/Blog-imgs/Java%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF.png" alt="Java后端开发学习路线"></p><hr><blockquote><p>时间流逝，岁月不饶人。每个人都选择了的自己生活的方向，发小这星期也要结婚了。同学有的也陆续开始工作了，考研的也都已经在准备了。<em>虽世殊事异，所以兴怀，其致一也</em>。我想大家都如此吧，愿今后加油一切顺利。😊</p></blockquote>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;失踪人口回来啦🤗，前一篇还是元旦转眼已经将近五个月没写博客了，可以说是终极鸽子🕊怪了。</summary>
+    
+    
+    
+    <category term="杂记" scheme="https://pinkpeachabc.cn/categories/%E6%9D%82%E8%AE%B0/"/>
+    
+    
+    <category term="闲聊" scheme="https://pinkpeachabc.cn/tags/%E9%97%B2%E8%81%8A/"/>
+    
+  </entry>
   
   <entry>
     <title>Happy New Year</title>
